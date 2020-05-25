@@ -1,0 +1,24 @@
+{
+  "name": "game",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel ./index.html --open",
+    "build": "parcel build <your entry file>"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikshin/game.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mikshin/game/issues"
+  },
+  "homepage": "https://github.com/mikshin/game#readme",
+  "description": "",
+  "devDependencies": {
+    "sass": "^1.26.5"
+  }
+}
